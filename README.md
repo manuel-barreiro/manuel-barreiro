@@ -1,13 +1,15 @@
-<h1 align="center">Hey!, I'm Manuel Barreiro</h1>
+<h1 align="center">Manuel Barreiro</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **#100Devs**
+- 🔭 Currently working on **#100Devs**
 
-- 👯 I'm an enthusiastic **Fullstack Developer**
+- 👯 Enthusiastic **Fullstack Developer**
+
+- ⚡ Passionate about **Machine Learning and AI**
 
 - 🤝 Looking forward to collaborate on **developing websites, apps, etc.**
 
-- ⚡ I'm also passionate about **Machine Learning and AI**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
