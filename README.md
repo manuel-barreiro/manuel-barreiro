@@ -1,7 +1,5 @@
 <h1 align="center">Manuel Barreiro</h1>
-<h3 align="center">Software Engineer</h3>
-
-- 🔭 Software Engineer at  **@100Devs**
+<h3 align="center">Engineer | Developer</h3>
 
 - 👯 Enthusiastic **Fullstack Developer**
 
