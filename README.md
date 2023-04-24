@@ -1,11 +1,11 @@
 <h1 align="center">Manuel Barreiro</h1>
 <h3 align="center">Engineer | Developer</h3>
 
-- 👯 Enthusiastic **Fullstack Developer**
+- Enthusiastic **Fullstack Developer**
 
-- ⚡ Passionate about **Machine Learning and AI**
+- Passionate about **Machine Learning and AI**
 
-- 🤝 Looking forward to collaborate on **developing websites, apps, etc.**
+- Looking forward to collaborate on **developing websites, apps, etc.**
 
 
 
