@@ -14,6 +14,7 @@
 <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 
+
 Visit https://manuel-barreiro.com/
 
 <h3 align="left">Languages and Tools:</h3>
