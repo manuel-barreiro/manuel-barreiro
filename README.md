@@ -1,7 +1,7 @@
 <h1 align="center">Manuel Barreiro</h1>
 <h3 align="center">Engineer | Developer</h3>
 
-- Industrial Engineerr
+- Industrial Engineer
 
 - Enthusiastic **Fullstack Developer** and passionate about **Machine Learning and AI**
 
