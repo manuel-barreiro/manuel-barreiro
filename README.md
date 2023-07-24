@@ -3,7 +3,9 @@
 
 - **Industrial Engineer**
 
--  **Fullstack Developer** and passionate about **Machine Learning and AI**
+-  **Fullstack Developer**
+  
+-  Passionate about **Machine Learning and AI**
 
 - Looking forward to collaborate on **developing websites, apps, etc.**
 
