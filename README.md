@@ -3,7 +3,7 @@
 
 - **Industrial Engineer**
 
--  **Fullstack Developer**
+-  **Fullstack Developer** (React, Next.js, Tailwind CSS)
   
 -  Passionate about **Machine Learning and AI**
 
