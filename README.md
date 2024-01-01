@@ -1,7 +1,7 @@
 <h1 align="center">Manuel Barreiro</h1>
 <h3 align="center">Engineer | Developer</h3>
 
-- **Industrial Engineer**
+- **Software Engineer**
 
 -  **Fullstack Developer** (React, Next.js, Tailwind CSS)
   
