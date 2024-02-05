@@ -3,7 +3,7 @@
 
 - **Software Engineer**
 
--  **Fullstack Developer** (React, Next.js, Tailwind CSS)
+-  **Fullstack Developer** (React, Next.js, Tailwind)
   
 -  Passionate about **Machine Learning and AI**
 
