@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manuel Barreiro 👋</h1>
+<h1 align="center">Hi, I'm Manuel 👋</h1>
 <h3 align="center">Industrial Engineer turned Fullstack Developer</h3>
 
 <p align="center">
